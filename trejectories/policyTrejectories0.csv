@@ -1,0 +1,2 @@
+encoded_x,encoded_y,layers,nnode1,nnode2,accuracy,reward,total_reward,critic_value_state,critic_value_state_action,actor_value_1,actor_value_2,actor_value_3
+8.547714,19.002588,0.26666666666666666,0.4583333333333333,0.0,[[0.7267526 1.       ]],0.0,0,0.0,0.0,0.0,0.0,0.0
