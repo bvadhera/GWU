@@ -1,0 +1,1 @@
+training_loss,val_loss,val_loss,decoder_accuracy,mean_sqe_pred,mean_sqe_pred_legal,val_decoder_accuracy,val_mean_sqe_pred,test_loss,test_decoder_accuracy,test_mean_sqe_pred,test_acc
